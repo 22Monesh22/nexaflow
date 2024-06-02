@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nexaflow-clone",
+  "private_key_id": "ba89d48fe7eede9202c0f7f9717cbf3b9ee0a703",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDXPieLBTUZ0kCv\n8hxc6PcMNaaxbBJL93gjyypFIU7jRGtitD8zizfC/pajAtHK0A9/x20ZGcDjrW/t\nYJgHFr7K2CJH45R98o1TpbvutVuKlAdm9ILd5fI2Nq6dfxiMzOhDJcGxL4PohBdW\noGX+cRCaPnqLEvmebaHcvEOf0izyd6cEOvO6PFbw5N5to7qWsXsY6alljF1gBPG1\noFYlOrNIHVbK02TRqwLqwqye2FfeN7tVP9HZxVo93e0oNtnnU1VtogCx5zfM+OGF\nVcb9K4Q25tZs2z9XYhuyshUGCbENP7esUNNJc9OtpBp+RA4eQF0jgMrfJfAhTYju\nYjq/2jULAgMBAAECggEADYJD9r3Zwn2c0WNyHpirzKiKBjpLVFjl7DqCNCWDhHr/\npwm7VQ+ol8SPuA+4vVsH5f6iXRVt3ZGTOUQ7NmgEix7mg+QyJnd0duqrcVoQ3TvY\n0mrdKHJtRwlxNcb2HPwimvhB1aOESrG49JcLil0WltT+BEApdM/aUqFpjcch9V5U\nl77/Vmd9Z08k8VIaYSLrn+Vppda5ETmUBhxCchSTwgOIQJJ3BIQsT187NjfyJKie\n58pl1bJPg3XuBw9m8gw32Dsk9MCiET4FLnIH7zsEk1pNU+VZfhT79OEqtv5W5wSc\nPcHDeanN5ygcUTJ0jP2C/E1h/n0SqbloNrWzPrntNQKBgQD2j4Vydc5vrUNsgGrs\nP6ZpPlMU74G1h9h7uR2NuJKZLSp4yPwADpArsuksTB3GaH4/eAiFDSr/CGVEb7K0\noocwttRatAuhwAf9jAKiGCemTxLLSrcun2BBgly0wDFQl/cH12ZYrGIz/c2A6A/O\n0U5+0c7ytEvHv0+aMnebLemTTQKBgQDfe7HmdsKqEIIyF5qaNc9DLe85+xiiWZH3\nw5X9li3ahbZYBULqoRxDI1bYf5fo251Gb/UB627zwCIgausxSLVUP0i5nR9ITQVn\nL8KsfK87z8/E1RFBWkF6o7JLEgcap8pLSukjAZFS8svgLYrZFiZTwVbVEuV0gOZR\nEIvd9YMNtwKBgQD2W4NgUbu6NGpZIJs1gYe6Qs7q7UEybBDv1pBkCddY/Bsi4teB\nCwwczcBURZ2+oKv8qOgCYZzjhLUCw4TRHlBsaVIXayzwKpsRSXNcGTyM3RePTxFn\noVGhQyt0Y1EjESSAjkYyNdRN1LwgoD8jTFndN7BLK8FITayxCtodkKuBRQKBgGRG\nfjZoh0QDkEelq6sSBeOg0rxzXERMaGCBk+Vq4zwvzveDtNjOXX4Kd0dBSQoksFcQ\nmSC5YNliFm3xS4KbmzEoDBus0oKAfLImDfWTJJVz00gASnPGaab7mF5ywllFfFF4\nVU9tvqU3aB84kBqEA8KE9883YVl7FNy+zeNT6+/VAoGAH4qUY7h/vr6GsRpucFyw\n7RwIRWKIgC8nrwMkJMFJaaXlIwbltbIDb1A9QwdQlyZ5jU7k0ViOaI4+r8Gax9oD\nSN/iKrXtv5Q29SZ2YOVmmaQ38CB2HUIF16KXd43j8vMswWURb6DOxPyQCs//yKn7\nAPZkhzmHhiZABgY8RU5NTcY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "nexa-163@nexaflow-clone.iam.gserviceaccount.com",
+  "client_id": "101018585317903509466",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nexa-163%40nexaflow-clone.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
